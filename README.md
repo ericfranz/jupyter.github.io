@@ -1,7 +1,5 @@
 # Jupyter's main website
 
-Eric's fork
-
 [![Build Status](https://travis-ci.org/jupyter/jupyter.github.io.svg?branch=master)](https://travis-ci.org/jupyter/jupyter.github.io)
 
 This is the source to [Jupyter.org](http://jupyter.org/).
